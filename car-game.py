@@ -29,4 +29,4 @@ quit - close program
         print("Exiting program...")
         break
     else:
-        print("Invalid command. Type 'help' for available commands.")
+        print("Invalid command. Type 'help' for availds.")
